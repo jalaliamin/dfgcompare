@@ -6,6 +6,7 @@ To install and use dfgcompare, some requirement shall be fulfilled, which is des
 If you already installed the graphviz, you can move to the Installing dfgcompare phase directly.
 
 ## Pre-requisite
+It is assumed that you have basic knowledge of Python and how to run ipynb files using jupyter lab.
 dfgcompare depends on graphviz which is depends on the C++ compiler.
 Please note that you need to follow the instruction that is specified in [download instruction for graphviz](https://www.graphviz.org/download/).
 Also, graphviz requires custom configuration if it is installed on Windows operating system as described in [configuration](https://forum.graphviz.org/t/new-simplified-installation-procedure-on-windows/224).
